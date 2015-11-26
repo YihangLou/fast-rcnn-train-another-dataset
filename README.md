@@ -1,5 +1,6 @@
 # fast-rcnn-train-another-dataset
-for test
+
+If you think those can help you, please give me star~~~~thank you so much :)
 
 Those three file can help you to train fast-rcnn on your own dataset.
 You can follow the steps in my blog http://www.cnblogs.com/louyihang-loves-baiyan/p/4903231.html 
